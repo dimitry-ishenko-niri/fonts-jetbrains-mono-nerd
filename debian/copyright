@@ -8,6 +8,62 @@ Copyright:
  2020, The JetBrains Mono Project Authors, https://github.com/JetBrains/JetBrainsMono
 License: OFL-1.1
 
+Files: * [Codicons]
+Copyright: https://github.com/microsoft/vscode-codicons
+License: CC-BY-4.0
+
+Files: * [Devicons]
+Copyright: https://github.com/devicons/devicon
+License: MIT
+
+Files: * [extraglyphs]
+Copyright: https://github.com/source-foundry/Hack
+License: MIT
+
+Files: * [Font Awesome]
+Copyright: https://github.com/FortAwesome/Font-Awesome
+License: CC-BY-4.0
+
+Files: * [Font Awesome Extension]
+Copyright: https://github.com/AndreLZGava/font-awesome-extension
+License: MIT
+
+Files: * [Font Logos]
+Copyright: https://github.com/lukas-w/font-logos
+License: unlicensed
+
+Files: * [MaterialDesign]
+Copyright: https://github.com/Templarian/MaterialDesign-Font
+License: Apache-2.0
+
+Files: * [Octicons]
+Copyright: https://github.com/primer/octicons
+License: MIT
+
+Files: * [Seti and original]
+Copyright: https://github.com/jesseweed/seti-ui
+License: MIT
+
+Files: * [Pomicons]
+Copyright: https://github.com/gabrielelana/pomicons
+License: OFL-1.1-RFN
+
+Files: * [Powerline Extra]
+Copyright: https://github.com/ryanoasis/powerline-extra-symbols
+License: MIT
+
+Files: * [Powerline Symbols]
+Copyright: https://github.com/powerline/powerline
+License: MIT
+
+Files: * [Power Symbols IEC]
+Copyright: https://github.com/jloughry/Unicode
+License: MIT
+
+Files: * [Weather Icons]
+Copyright: https://github.com/erikflowers/weather-icons
+License: OFL-1.1
+
 Files: debian/*
 Copyright: 2024, Dimitry Ishenko <dimitry.ishenko@gmail.com>
 License: GPL-2+
