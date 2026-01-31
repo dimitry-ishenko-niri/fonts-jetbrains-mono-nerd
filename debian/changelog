@@ -1,3 +1,10 @@
+fonts-jetbrains-mono-nerd (3.4.0-3) unstable; urgency=medium
+
+  * d/copyright: add credits
+  * d/control: update links
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 30 Jan 2026 22:52:46 -0500
+
 fonts-jetbrains-mono-nerd (3.4.0-2) unstable; urgency=medium
 
   * d/control & d/copyright: fix links
